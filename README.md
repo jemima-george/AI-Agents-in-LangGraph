@@ -18,3 +18,19 @@ https://learn.deeplearning.ai/courses/ai-agents-in-langgraph
 - Understand the agent execution loop
 - Add a simple tool
 - Test agent decisions
+
+### 2. LangGraph Components & State
+
+#### To Study:
+- LangGraph components
+- State
+- Nodes
+- Graphs
+- Connecting workflow steps
+
+#### To Practice:
+- Define application state
+- Create nodes
+- Connect nodes
+- Build a simple graph
+- Test state transitions
