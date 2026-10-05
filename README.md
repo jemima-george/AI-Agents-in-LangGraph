@@ -34,3 +34,17 @@ https://learn.deeplearning.ai/courses/ai-agents-in-langgraph
 - Connect nodes
 - Build a simple graph
 - Test state transitions
+
+### 3. Tools, Search, Persistence & Streaming
+
+#### To Study:
+- Agentic Search Tools
+- Persistence
+- Streaming
+
+#### To Practice:
+- Add a search/tool capability
+- Implement persistent state
+- Test streaming responses
+- Build a multi-step agent workflow
+- Connect tools to the agent
