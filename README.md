@@ -48,3 +48,19 @@ https://learn.deeplearning.ai/courses/ai-agents-in-langgraph
 - Test streaming responses
 - Build a multi-step agent workflow
 - Connect tools to the agent
+
+### 4. Human-in-the-Loop & Agent Application
+
+#### To Study:
+- Human in the loop
+- Essay Writer workflow
+- LangChain resources
+- Course conclusion
+- Quiz
+
+#### To Practice:
+- Implement human approval/intervention
+- Build a multi-step agent workflow
+- Connect the agent to the application
+- Test different agent scenarios
+- Complete the course quiz
