@@ -64,3 +64,22 @@ https://learn.deeplearning.ai/courses/ai-agents-in-langgraph
 - Connect the agent to the application
 - Test different agent scenarios
 - Complete the course quiz
+
+### 5. Final RAG / Agent Integration & Phase 3 Demo
+
+#### To Study:
+- Review complete Phase 3
+- Review RAG workflow
+- Review agent workflow
+- Review application architecture
+
+#### To Practice:
+- Finalize RAG pipeline OR LangChain/LangGraph agent
+- Integrate it end-to-end into the application
+- Connect with the deployed application
+- Test complete user flow
+- Fix bugs
+- Review code
+- Run final tests
+- pdate documentation
+- Prepare demonstration
